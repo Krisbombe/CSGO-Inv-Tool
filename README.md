@@ -1,7 +1,7 @@
 # CSGO-Inv-Tool
 ## Info
 Moinsen, Des ist mein erstes Programm.Deswegen nicht wundern wenn einige Funktionen nicht funktionieren oder verbugt sind.
-Es ist halt ein simples CSGO tool mit nützlichen links und paar Funktionen.
+Es ist halt ein Simples CSGO Inventory Tool  mit nützlichen links und Funktionen.
 ## Download
 <h3>Public Version</h3>
 
