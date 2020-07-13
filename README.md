@@ -6,14 +6,14 @@ Es ist halt ein Simples CSGO Inventory Tool  mit nützlichen links und Funktione
 <h3>Public Version</h3>
 
 <a href="https://mega.nz/file/qdh3HTIR#pVnrlJ26kyyXUGV7se9jGd5cbNyczXCdgP-sjymZun8" target="_blank">
-  <img width="192" height="192" border="0" align="center"  src="https://i.imgur.com/0iOXtFP.png"/>
+  <img width="192" height="192" border="0" align="center"  src="https://raw.githubusercontent.com/Krisbombe/CSGO-Inv-Tool/master/CSGO-Icon-Public.png"/>
 </a>
 
 <h3>Private Version</h3>
 
 
 <a href="https://mega.nz/file/HFw10TrR#ZdBueZEUd4pyFdMxKgh-p5sAiSA2QsHbxv77xeOrTOA" target="_blank">
-  <img width="192" height="192" border="0" align="center"  src="https://i.imgur.com/6mm86Hl.png"/>
+  <img width="192" height="192" border="0" align="center"  src="https://raw.githubusercontent.com/Krisbombe/CSGO-Inv-Tool/master/CSGO-Icon.png"/>
 </a>
 <h2>Installation</h2>
 1. Laden sie sich die Entsprechende Version herunter.
