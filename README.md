@@ -3,17 +3,17 @@
 Moinsen, Des ist mein erstes programm.Deswegen nicht wundern wenn einige Funktionen nicht so funktionieren oder verbugt sind.
 Es ist halt ein simples CSGO tool mit nützlichen links und paar Funktionen.
 ## Download
-<h1>Public Version</h1>
+<h3>Public Version</h3>
 
 <a href="http://www.google.com" target="_blank">
-  <img width="128" height="128" border="0" align="center"  src="https://i.imgur.com/0iOXtFP.png"/>
+  <img width="192" height="192" border="0" align="center"  src="https://i.imgur.com/0iOXtFP.png"/>
 </a>
 
-###Private Version
+<h3>Private Version</h3>
 
 
 <a href="http://www.google.com" target="_blank">
-  <img width="128" height="128" border="0" align="center"  src="https://i.imgur.com/6mm86Hl.png"/>
+  <img width="192" height="192" border="0" align="center"  src="https://i.imgur.com/6mm86Hl.png"/>
 </a>
 ## Installation
 
