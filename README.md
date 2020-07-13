@@ -1,9 +1,10 @@
 # CSGO-Inv-Tool
 
 ## Info
-Moinsen, ist halt mein erstes programm deswege ned wundern warum des so scuffed ist.
+Moinsen, Des ist mein erstes programm.Deswegen nicht wundern wenn einige Funktionen nicht so funktionieren oder verbugt sind.
 Es ist halt ein simples CSGO tool mit nützlichen links und paar Funktionen.
+## Download
 
-### Installation
+## Installation
 
-### Troubleshooting
+## Troubleshooting
