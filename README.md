@@ -3,7 +3,7 @@
 Moinsen, Des ist mein erstes Programm.Deswegen nicht wundern wenn einige Funktionen nicht funktionieren oder verbugt sind.
 Es ist halt ein Simples CSGO Inventory Tool  mit nützlichen links und Funktionen.
 ## Download
-Aktuelleste Versionen: Public:3.5 || Private:3.5
+Aktuelleste Versionen: Public:3.6 || Private:3.6
 <h3>Public Version</h3>
 
 <a href="https://mega.nz/file/LAJgSQiJ#grBh6Lq2bp0k3tY3AFnV3DiLdcmtonz1KOxekAAShFw" target="_blank">
