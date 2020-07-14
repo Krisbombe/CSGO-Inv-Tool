@@ -7,16 +7,15 @@
 body{
   margin: 25px;
   padding: 25px;
-  background-color: white;
-  color: black;
-  font-size: 25px;
-}
-
-.dark-mode {
   background-color: #171717;
   color: white;
 }
 
+.white-mode {
+  background-color: white;
+  color: black;
+
+}
 
 .button{
 width: 220px;
@@ -30,41 +29,55 @@ cursor: pointer;
 font-size: 16px;
 position: relative;
 }
+
+#p1,#p2,#p3{
+font-size: 20px;
+}
+
+#h2{
+font-size: 30px;
+}
+#h3{
+font-size: 22px;
+}
+#h1{
+font-size: 50px;
+}
 </style>
 <body>
 <link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
 
 <font face="Jost">
-<center><h1>CSGO-Inv-Tool</h1></center>
+<center><h1 id=h1>CSGO-Inv-Tool</h1></center>
 <center><button class="button" onclick="myFunction()">Umschalter Tag/Nacht Modus</button></center>
-<h2>Info</h2>
-<p>Moinsen, Des ist mein erstes Programm.Deswegen nicht wundern wenn einige Funktionen nicht funktionieren oder verbugt sind.<br>
+<h2 id=h2>Info</h2>
+<p id=p1>Moinsen, Des ist mein erstes Programm.Deswegen nicht wundern wenn einige Funktionen nicht funktionieren oder verbugt sind.<br>
 Es ist halt ein Simples CSGO Inventory Tool  mit nützlichen links und Funktionen.<br>
 </p>
 
-<h2>Download</h2>
-Aktuelleste Versionen: Public:3.6 || Private:3.6
-<h3>Public Version</h3>
+<h2 id=h2>Download</h2>
+<p id=p2>Aktuelleste Versionen: Public:3.6 || Private:3.6</p>
+<h3 id=h3>Public Version</h3>
 
 <a href="https://mega.nz/file/LAJgSQiJ#grBh6Lq2bp0k3tY3AFnV3DiLdcmtonz1KOxekAAShFw" target="_blank">
   <img width="192" height="192" border="0" align="center"  src="https://raw.githubusercontent.com/Krisbombe/CSGO-Inv-Tool/master/CSGO-Icon-Public.png"/>
 </a>
 
-<h3>Private Version</h3>
+<h3 id=h3>Private Version</h3>
 
 
 <a href="https://mega.nz/file/GcRSxI4b#4TbX7t7wTIZ7xlyWaYfTOpHiS2wFA-Hp5e_zPdpnFwk" target="_blank">
   <img width="192" height="192" border="0" align="center"  src="https://raw.githubusercontent.com/Krisbombe/CSGO-Inv-Tool/master/CSGO-Icon.png"/>
 </a>
-<h2>Installation</h2>
-<p>
+<h2 id=h2>Installation</h2>
+<p id=p3>
 1. Laden sie sich die Entsprechende Version herunter.<br>
 2. Führen sie den Installer:"CSGO Inv Tool Installer.exe" aus.<br>
 3. Wählen sie ihre bevorzugte Sprache aus.<br>
 4. Klicken sie sich durch den Installationsprozess durch.<br>
    Warnung: Bitte installieren sie das Programm in einem Ordner indem *keine* Administrator-Rechte erforderlich sind!<br>
 5. Sobald das Setup vollständig beendet ist, können sie direkt jegliche Funktionen des Programms nutzen.<br></p>   
-<h2>Troubleshooting</h2>
+<h2 id=h2>Troubleshooting</h2>
 <a href="https://github.com/Krisbombe/CSGO-Inv-Tool/blob/master/Troubleshooting%20CSGO%20Inv%20Tool.pdf" target="_blank">
   <img width="80" height="100" border="0" align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/500px-PDF_file_icon.svg.png"/>
 </a>    
@@ -73,7 +86,7 @@ Aktuelleste Versionen: Public:3.6 || Private:3.6
 <script>
 function myFunction() {
    var element = document.body;
-   element.classList.toggle("dark-mode");
+   element.classList.toggle("white-mode");
 }
 </script>
 </html>
