@@ -14,7 +14,7 @@ Aktuelleste Versionen: Public:3.6 || Private:3.6
 
 
 <a href="https://mega.nz/file/GcRSxI4b#4TbX7t7wTIZ7xlyWaYfTOpHiS2wFA-Hp5e_zPdpnFwk" target="_blank">
-  <img width="192" height="192" border="0" align="center"  src="https://raw.githubusercontent.com/Krisbombe/CSGO-Inv-Tool/Icons/master/CSGO-Icon.png"/>
+  <img width="192" height="192" border="0" align="center"  src="https://raw.githubusercontent.com/Krisbombe/CSGO-Inv-Tool/master/Icons/CSGO-Icon.png"/>
 </a>
 <h2>Installation</h2>
 1. Laden sie sich die Entsprechende Version herunter.
