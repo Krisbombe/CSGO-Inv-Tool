@@ -17,7 +17,7 @@ body{
 
 }
 
-.button{
+.btns{
 width: 220px;
 height: 70px;
 background: none;
@@ -28,10 +28,13 @@ text-transform: uppercase;
 cursor: pointer;
 font-size: 16px;
 position: relative;
-}
 
 #p1,#p2,#p3{
 font-size: 20px;
+}
+#img150
+{
+float: left;
 }
 
 #h2{
@@ -43,13 +46,23 @@ font-size: 22px;
 #h1{
 font-size: 50px;
 }
+#grid {
+display: table;
+width: 100%
+}
+figure {
+display: table-cell;
+padding: 0 4px;
+margin: 0 auto;
+text-align: center
+}
 </style>
 <body>
 <link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
 
 <font face="Jost">
 <center><h1 id=h1>CSGO-Inv-Tool</h1></center>
-<center><button class="button" onclick="myFunction()">Umschalter Tag/Nacht Modus</button></center>
+<center><button class="btns" onclick="whiteMode()">Umschalter Tag/Nacht Modus</button></center>
 <h2 id=h2>Info</h2>
 <p id=p1>Moinsen, Des ist mein erstes Programm.Deswegen nicht wundern wenn einige Funktionen nicht funktionieren oder verbugt sind.<br>
 Es ist halt ein Simples CSGO Inventory Tool  mit nützlichen links und Funktionen.<br>
@@ -57,6 +70,16 @@ Es ist halt ein Simples CSGO Inventory Tool  mit nützlichen links und Funktione
 
 <h2 id=h2>Download</h2>
 <p id=p2>Aktuelleste Versionen: Public:3.6 || Private:3.6</p>
+
+<div style="display: table; width: 50%; height: 200">
+
+<figure style="display: table-cell; padding: 0 4px; text-align: center;"><a href="https://mega.nz/file/LAJgSQiJ#grBh6Lq2bp0k3tY3AFnV3DiLdcmtonz1KOxekAAShFw" target="_blank"><img width: 200, height: 200, src="https://raw.githubusercontent.com/Krisbombe/CSGO-Inv-Tool/master/CSGO-Icon-Public.png" /><figcaption>Public Version</figcaption></figure>
+<figure style="display: table-cell; padding: 0 4px; text-align: center; vertical-align: middle;"><a href="https://mega.nz/file/GcRSxI4b#4TbX7t7wTIZ7xlyWaYfTOpHiS2wFA-Hp5e_zPdpnFwk" target="_blank"><img src="https://raw.githubusercontent.com/Krisbombe/CSGO-Inv-Tool/master/CSGO-Icon.png" /><figcaption>Private Version</figcaption></figure>
+</a>
+</div>
+
+
+
 <h3 id=h3>Public Version</h3>
 
 <a href="https://mega.nz/file/LAJgSQiJ#grBh6Lq2bp0k3tY3AFnV3DiLdcmtonz1KOxekAAShFw" target="_blank">
@@ -84,7 +107,7 @@ Es ist halt ein Simples CSGO Inventory Tool  mit nützlichen links und Funktione
 </font>
 </body>
 <script>
-function myFunction() {
+function whiteMode() {
    var element = document.body;
    element.classList.toggle("white-mode");
 }
